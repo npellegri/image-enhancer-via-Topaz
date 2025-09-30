@@ -2,7 +2,7 @@ import replicate
 import os
 
 # Set your API token
-os.environ["REPLICATE_API_TOKEN"] = "r8_TpnYXhb3x3PUmwTm9FesuokqwCzKOxE4RSgGy"  # Replace with your actual token
+os.environ["REPLICATE_API_TOKEN"] = "___________________________"  # Replace with your actual token
 
 try:
     if "REPLICATE_API_TOKEN" not in os.environ:
